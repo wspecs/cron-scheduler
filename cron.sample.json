@@ -1,6 +1,0 @@
-{
-	"*/30 * * * * *": {
-		"name": "30 seconds",
-		"command": "echo running every thirty second"
-	}
-}
